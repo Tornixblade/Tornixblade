@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22TornixBlade%22%2C%22name%22%3A%22Michael%20Taylor%22%2C%22email%22%3A%22tornixmst%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A3%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22TornixBlade%22%2C%22name%22%3A%22Michael%20Taylor%22%2C%22email%22%3A%22tornixmst%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A3%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22At-Home%20Graded%20Lab%3A%20Create%20a%20Basic%20Script%20in%20Windows%20PowerShell%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22file%3A%2F%2F%2FC%3A%2FUsers%2FAdmin%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%25202026-09-16%2520154929.png%22%2C%22status%22%3A%22pending%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -33,7 +33,9 @@
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-*No labs added yet.*
+| Lab / Project | Description | Status | Link |
+|---|---|---|---|
+| At-Home Graded Lab: Create a Basic Script in Windows PowerShell | — | ⏳ Pending | [Open](file:///C:/Users/Admin/OneDrive/Pictures/Screenshots/Screenshot%202026-09-16%20154929.png) |
 
 </details>
 
