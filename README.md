@@ -1,16 +1,16 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%7B%22name%22%3A%22AI901-Intro%20to%20Azure%20Machine%20Learning%20Stuido%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22file%3A%2F%2F%2FC%3A%2FUsers%2FAdmin%2FOneDrive%2FDesktop%2FAI901-Achievemnets%2FAI%2520901-Introduction%2520to%2520Azure%2520Machine%2520Learning%2520Studio.png%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Tornixblade%22%2C%22name%22%3A%22Michael%20Taylor%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%7B%22name%22%3A%22AI901-Intro%20to%20Azure%20Machine%20Learning%20Stuido%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22file%3A%2F%2F%2FC%3A%2FUsers%2FAdmin%2FOneDrive%2FDesktop%2FAI901-Achievemnets%2FAI%2520901-Introduction%2520to%2520Azure%2520Machine%2520Learning%2520Studio.png%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
+<img src="https://github.com/Tornixblade.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
+# Hi there, I'm Michael Taylor
 
-# Hi there, I'm Your Name
-
-**Your Name**
+**Michael Taylor**
 
 *ITSA Student*
 
-
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40Tornixblade-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tornixblade)
 
 </div>
 
